@@ -7,7 +7,10 @@
 /* Rules for the game board */
 #board{
     /*Colors*/
-    background-color: navy;
+    background-image: url(https://th.bing.com/th/id/OIP.eM12xGn-IWphYOlg_qu-6QHaE8?w=262&h=180&c=7&r=0&o=5&pid=1.7);
+background-repeat: no-repeat;
+background-size: cover;
+border-image-width: 100%;
 
     /*Sizing*/
     height: 100%;
